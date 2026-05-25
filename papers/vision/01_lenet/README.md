@@ -4,3 +4,4 @@
 **Authors:** LeCun, Bottou, Bengio, Haffner (1998)  
 **Link:** http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 
+## The OG CNN
